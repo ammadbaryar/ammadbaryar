@@ -1,14 +1,18 @@
 # Hi 👋, I'm Ammad Iftikhar
 🎓 Final Year Software Engineering Student | 💻 Frontend Developer | 🤖 MERN Stack & AI Learning Enthusiast  
 
+
 ---
+
 
 ## 🔭 Currently Working On  
 - CamTrack (FYP) 
 - MERN Stack Applications  
 - KnoteBook React App
 
+
 ---
+
 
 ## 🌱 Currently Learning  
 - Advanced React & State Management  
@@ -16,14 +20,18 @@
 - How to use **Google Cloud** for AI/ML integrations 
 - Deep Learning (Computer Vision)  
 
+
 ---
+
 
 ## 💬 Ask Me About  
 - Frontend Development (ReactJS, VueJs, NEXTJS etc)  
 - JavaScript
 - OOPs & DSA
 
+
 ---
+
 
 ## ⚡ Fun Fact  
 I love solving real-world problems through code 🚀  
@@ -35,17 +43,21 @@ I love solving real-world problems through code 🚀
   <a href="https://ammad-portfolio-five.vercel.app"><b>Visit My Portfolio</b></a>
 </p>
 
+
 ---
+
 
 ## 🔗 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ammad-iftikhar-b46515234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/AmmadBaryar?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/ammadbaryar" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://github.com/ammadbaryar" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+
 ---
+
 
 ## 🛠️ Languages and Tools  
 
@@ -76,7 +88,9 @@ I love solving real-world problems through code 🚀
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Stats  
 
@@ -88,18 +102,12 @@ I love solving real-world problems through code 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmadBaryar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 ---
+
 
 ## 📈 Profile Summary Card  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmmadBaryar&theme=radical" alt="Profile Summary Card" />
-</p>
-
----
-
-## 🐍 Snake Eating My Commits  
-
-<p align="center">
-  <img src="https://github.com/AmmadBaryar/AmmadBaryar/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
