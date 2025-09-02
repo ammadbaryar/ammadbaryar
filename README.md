@@ -1,40 +1,35 @@
-# Hi 👋, I'm Ammad Baryar  
-🎓 Final Year Software Engineering Student | 💻 MERN Stack Developer | 🤖 AI & Deep Learning Enthusiast  
+# Hi 👋, I'm Ammad Iftikhar
+🎓 Final Year Software Engineering Student | 💻 Frontend Developer | 🤖 MERN Stack & AI Learning Enthusiast  
 
----
 
 ## 🔭 Currently Working On  
-- Automatic Car Entry-Exit Monitoring System (FYP) with **License Plate Recognition (LPR)**  
+- CamTrack (FYP) 
 - MERN Stack Applications  
-- AI-based Face Recognition Systems  
-
----
+- KnoteBook React App
+  
 
 ## 🌱 Currently Learning  
 - Advanced React & State Management  
-- Scalable Cloud Deployments (Docker + Microservices)  
-- Deep Learning (Computer Vision & NLP)  
+- How to use **AWS** for cloud deployments  
+- How to use **Google Cloud** for AI/ML integrations 
+- Deep Learning (Computer Vision)  
 
----
 
 ## 💬 Ask Me About  
-- MERN Stack Development  
-- Product Engineering & Full Stack Best Practices  
-- Deep Learning & AI-driven Systems  
+- Frontend Development (ReactJS, VueJs, NEXTJS etc)  
+- JavaScript
+- OOPs & DSA
 
----
 
 ## ⚡ Fun Fact  
 I love solving real-world problems through code 🚀  
 
----
 
 ## 🌐 Portfolio  
 <p align="center">
-  <a href="https://github.com/AmmadBaryar"><b>Visit My Portfolio</b></a>
+  <a href="https://ammad-portfolio-five.vercel.app"><b>Visit My Portfolio</b></a>
 </p>
 
----
 
 ## 🔗 Connect with Me  
 
