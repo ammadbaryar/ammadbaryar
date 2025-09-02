@@ -1,12 +1,14 @@
 # Hi 👋, I'm Ammad Iftikhar
 🎓 Final Year Software Engineering Student | 💻 Frontend Developer | 🤖 MERN Stack & AI Learning Enthusiast  
 
+---
 
 ## 🔭 Currently Working On  
 - CamTrack (FYP) 
 - MERN Stack Applications  
 - KnoteBook React App
-  
+
+---
 
 ## 🌱 Currently Learning  
 - Advanced React & State Management  
@@ -14,29 +16,33 @@
 - How to use **Google Cloud** for AI/ML integrations 
 - Deep Learning (Computer Vision)  
 
+---
 
 ## 💬 Ask Me About  
 - Frontend Development (ReactJS, VueJs, NEXTJS etc)  
 - JavaScript
 - OOPs & DSA
 
+---
 
 ## ⚡ Fun Fact  
 I love solving real-world problems through code 🚀  
 
+---
 
 ## 🌐 Portfolio  
 <p align="center">
   <a href="https://ammad-portfolio-five.vercel.app"><b>Visit My Portfolio</b></a>
 </p>
 
+---
 
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://behance.net/yourprofile"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ammad-iftikhar-b46515234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/AmmadBaryar?s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/ammadbaryar" target="_blank"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/></a>
 </p>
 
 ---
