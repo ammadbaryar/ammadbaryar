@@ -1,4 +1,4 @@
-'# Hi 👋, I'm Ammad Iftikhar
+## Hi 👋, I'm Ammad Iftikhar
 🎓 Final Year Software Engineering Student | 💻 Frontend Developer | 🤖 MERN Stack & AI Learning Enthusiast  
 
 
