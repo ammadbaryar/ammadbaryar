@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ammad Iftikhar
+'# Hi 👋, I'm Ammad Iftikhar
 🎓 Final Year Software Engineering Student | 💻 Frontend Developer | 🤖 MERN Stack & AI Learning Enthusiast  
 
 
@@ -17,8 +17,7 @@
 ## 🌱 Currently Learning  
 - Advanced React & State Management  
 - How to use **AWS** for cloud deployments  
-- How to use **Google Cloud** for AI/ML integrations 
-- Deep Learning (Computer Vision)  
+- How to use **Google Cloud** for AI/ML integrations  
 
 
 ---
@@ -34,7 +33,7 @@
 
 
 ## ⚡ Fun Fact  
-I love solving real-world problems through code 🚀  
+I love solving real-world problems through code...
 
 ---
 
